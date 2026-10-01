@@ -1,4 +1,4 @@
-# Todo List
+﻿# Todo List
 
 A clean and responsive task manager built with React and Vite.
 
@@ -27,8 +27,8 @@ A clean and responsive task manager built with React and Vite.
 ### Installation
 
 ```bash
-git clone https://github.com/fatemaasem/todo-list.git
-cd todo-list
+git clone https://github.com/fatemaasem/react-todo-list.git
+cd react-todo-list
 npm install
 npm run dev
 ```
@@ -42,3 +42,4 @@ npm run build
 ```
 
 The production-ready files will be generated in the `dist` directory.
+
